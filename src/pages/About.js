@@ -15,7 +15,7 @@ function About (){
                             <img alt='myself' src={ Riley } class="img-fluid col-xs-12" />
                         </div>
 
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                        <p>     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                         dolore magna aliqua. Aliquam faucibus purus in massa tempor nec feugiat nisl. Ut etiam sit amet nisl purus
                         in mollis nunc. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Rhoncus mattis rhoncus
                         urna neque viverra. Blandit massa enim nec dui nunc mattis enim ut tellus. Vulputate enim nulla aliquet

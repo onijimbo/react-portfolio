@@ -74,12 +74,18 @@ button{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+
+
 .wrapper2{
     border-top: 2px solid gray;
     padding: auto;
 }
 
 .wrapper2 img{
+    margin-bottom: 10px;
+}
+
+.card{
     margin-bottom: 10px;
 }
 
