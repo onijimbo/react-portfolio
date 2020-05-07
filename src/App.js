@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <Nav />
         <Switch>
-          <Route exact path={['/', '/about', 'http://onijimbo.github.io/react-portfolio']}>
+          <Route exact path={['/', '/about', 'onijimbo.github.io/react-portfolio']}>
             <About />
           </Route>  
           <Route path='/contact'>
