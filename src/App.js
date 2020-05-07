@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Nav />
-        <About />
+        {/* <About /> */}
         <Switch>
           <Route exact path={['/', '/about', 'http://onijimbo.github.io/react-portfolio']}>
             <About />
